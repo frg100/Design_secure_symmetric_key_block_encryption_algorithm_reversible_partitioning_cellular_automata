@@ -1,0 +1,22 @@
+; text=classname
+; if classname is not found, we use default package name com.fasteasytrade.JRandTest.Algo
+ARC4=com.fasteasytrade.JRandTest.Algo.ARC4
+MT19937=com.fasteasytrade.JRandTest.Algo.MT19937
+BlowFish=com.fasteasytrade.JRandTest.Algo.BlowFish
+RSA=com.fasteasytrade.JRandTest.Algo.RSA
+Java Random=com.fasteasytrade.JRandTest.Algo.JavaRandom
+Java Secured Random=com.fasteasytrade.JRandTest.Algo.JavaSecuredRandom
+DES=com.fasteasytrade.JRandTest.Algo.DES
+AES=com.fasteasytrade.JRandTest.Algo.AES
+Triple DES=com.fasteasytrade.JRandTest.Algo.TripleDES
+Lcg 1=com.fasteasytrade.JRandTest.Algo.Lcg1
+Blum-Blum-Shub=com.fasteasytrade.JRandTest.Algo.BBS
+Micali-Schnorr=com.fasteasytrade.JRandTest.Algo.MicaliSchnorr
+Quadratic Residue 1=com.fasteasytrade.JRandTest.Algo.QuadraticResidue1
+Quadratic Residue 2=com.fasteasytrade.JRandTest.Algo.QuadraticResidue2
+Cubic Residue=com.fasteasytrade.JRandTest.Algo.CubicResidue
+Modulus Exponent=com.fasteasytrade.JRandTest.Algo.ModulusExponent
+SHA1 Random=com.fasteasytrade.JRandTest.Algo.SHA1Random
+ZAC3 Random=com.fasteasytrade.JRandTest.Algo.ZAC3Random
+ZAC5 Random=com.fasteasytrade.JRandTest.Algo.ZAC5Random
+Skipjack Random=com.fasteasytrade.JRandTest.Algo.SkipjackRandom

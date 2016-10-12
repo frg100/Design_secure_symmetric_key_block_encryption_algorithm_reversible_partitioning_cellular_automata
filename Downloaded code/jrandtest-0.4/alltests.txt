@@ -1,0 +1,22 @@
+; text=classname
+; if classname is not found, we use default package name com.fasteasytrade.JRandTest.Tests
+Runs	=	com.fasteasytrade.JRandTest.Tests.Run
+1 Bit	=	com.fasteasytrade.JRandTest.Tests.Count1Bit
+2 Bits	=	com.fasteasytrade.JRandTest.Tests.Count2Bits
+3 Bits	=	com.fasteasytrade.JRandTest.Tests.Count3Bits
+4 Bits	=	com.fasteasytrade.JRandTest.Tests.Count4Bits
+8 Bits	=	com.fasteasytrade.JRandTest.Tests.Count8Bits
+16 Bits	=	com.fasteasytrade.JRandTest.Tests.Count16Bits
+Monte Carlo	=	com.fasteasytrade.JRandTest.Tests.MonteCarlo
+Squeeze		=	com.fasteasytrade.JRandTest.Tests.Squeeze
+Min Distance	=	com.fasteasytrade.JRandTest.Tests.MinimumDistance
+CountThe1s	=	com.fasteasytrade.JRandTest.Tests.CountThe1s
+CountThe1sSpecificBytes = com.fasteasytrade.JRandTest.Tests.CountThe1sSpecificBytes
+BirthdaySpacings	= com.fasteasytrade.JRandTest.Tests.BirthdaySpacings
+BinaryRank6x8Matrices = com.fasteasytrade.JRandTest.Tests.BinaryRankTestFor6x8Matrices
+BinaryRank31x31Matrices = com.fasteasytrade.JRandTest.Tests.BinaryRankTestFor31x31Matrices
+BinaryRank32x32Matrices = com.fasteasytrade.JRandTest.Tests.BinaryRankTestFor32x32Matrices
+Overlapping20TuplesBitstream = com.fasteasytrade.JRandTest.Tests.Overlapping20TuplesBitstream
+OverlappingPairsSparseOccupancy = com.fasteasytrade.JRandTest.Tests.OverlappingPairsSparseOccupancy
+OverlappingQuadruplesSparseOccupancy = com.fasteasytrade.JRandTest.Tests.OverlappingQuadruplesSparseOccupancy
+DNA = com.fasteasytrade.JRandTest.Tests.DNA
